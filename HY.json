@@ -1,5 +1,5 @@
 {
-  "spider": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/F0917.jpg ",
+  "spider": "https://github.com/heying0104/movies/raw/main/F0917.jpg ",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -170,7 +170,7 @@
       "key": "AppQi1",
       "name": "爱盈┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "api": "csp_AppQi",
       "changeable": "0",
       "quickSearch": 0,
@@ -183,7 +183,7 @@
       "quickSearch": 0,
       "searchable": 1,
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "api": "csp_AppQi",
       "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
     },
@@ -193,7 +193,7 @@
       "quickSearch": 0,
       "searchable": 1,
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "api": "csp_AppQi",
       "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A"
     },
@@ -203,7 +203,7 @@
       "quickSearch": 0,
       "searchable": 1,
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "api": "csp_AppGet",
       "ext": "KgJbeb5sUfDKrPR2kL+eSnS2/p1vUzgiO9/kBzkhPIPRpqLXPCDc4tA9MXMdokFN"
     },
@@ -211,7 +211,7 @@
       "key": "追忆",
       "name": "追忆┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "api": "csp_AppSy",
       "quickSearch": 0,
       "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA=="
@@ -220,7 +220,7 @@
       "key": "云速",
       "name": "云速┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_AppQi",
@@ -230,21 +230,21 @@
       "key": "csp_SaoHuo",
       "name": "火火┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "api": "csp_SaoHuo"
     },
     {
       "key": "csp_Qiyou",
       "name": "奇优┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "api": "csp_Qiyou"
     },
     {
       "key": "大豆",
       "name": "大豆┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppQi",
@@ -255,7 +255,7 @@
       "name": "爆炸┃影视",
       "quickSearch": 0,
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "api": "csp_AppMuou",
       "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
     },
@@ -263,7 +263,7 @@
       "key": "csp_Gz360",
       "name": "瓜子┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "searchable": 1,
       "quickSearch": 0,
       "api": "csp_Gz360"
@@ -272,7 +272,7 @@
       "key": "厂长",
       "name": "厂长┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/M0919.zip",
+      "jar": "https://github.com/heying0104/movies/raw/main/M0919.zip",
       "quickSearch": 0,
       "api": "csp_Czsapp",
       "ext": "https://www.czzymovie.com"
@@ -281,7 +281,7 @@
       "key": "剧评",
       "name": "剧评┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/Q0711.jar",
+      "jar": "https://github.com/heying0104/movies/raw/main/Q0711.jar",
       "api": "csp_Jpys",
       "playerType": 1,
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
@@ -290,7 +290,7 @@
       "key": "咖啡",
       "name": "咖啡┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/0815.png",
+      "jar": "https://github.com/heying0104/movies/raw/main/0815.png",
       "quickSearch": 0,
       "searchable": 1,
       "api": "csp_AppQi",
@@ -300,7 +300,7 @@
       "key": "比迪",
       "name": "比迪┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/0815.png",
+      "jar": "https://github.com/heying0104/movies/raw/main/0815.png",
       "quickSearch": 0,
       "playerType": 1,
       "searchable": 1,
@@ -311,7 +311,7 @@
       "key": "1905",
       "name": "1905┃影视",
       "type": 3,
-      "jar": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/jar.php",
+      "jar": "https://github.com/heying0104/movies/raw/main/jar.php",
       "api": "csp_Web1905",
       "searchable": 1,
       "quickSearch": 0,
@@ -321,8 +321,8 @@
       "key": "2400部恐怖电影??",
       "name": "恐怖┃影视",
       "type": 3,
-      "api": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/apiv26116万hys.js",
-      "ext": "https://codeberg.org/heying0104/xiawan/raw/branch/main/jar/2400部恐怖电影.js"
+      "api": "https://github.com/heying0104/movies/raw/main/apiv26116万hys.js",
+      "ext": "https://github.com/heying0104/movies/raw/main/2400部恐怖电影.js"
     },
     {
       "key": "csp_非凡资源",
