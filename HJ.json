@@ -1,0 +1,366 @@
+{
+  "spider": "https://d.kstore.dev/download/6437/jar/F0917.jpg ",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
+    {
+      "key": "豆",
+      "name": "虾丸影视",
+      "type": 3,
+      "api": "csp_DouDouGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "YGP",
+      "name": "叨观┃荐影",
+      "type": 3,
+      "api": "csp_YGPGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "文采",
+      "name": "文采┃影视",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "糯米┃影视",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "比特",
+      "name": "比特┃影视",
+      "type": 3,
+      "api": "csp_BttwooGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "京鱼",
+      "name": "京鱼┃影视",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"
+    },
+    {
+      "key": "原创",
+      "name": "原创┃影视",
+      "type": 3,
+      "api": "csp_YCyzGuard",
+      "timeout": 30,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "苹果┃影视",
+      "type": 3,
+      "api": "csp_LiteAppleGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "低端",
+      "name": "低端┃影视",
+      "type": 3,
+      "api": "csp_DdrkGuard",
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "欢视",
+      "name": "欢视┃影视",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT9fFAy5mE5qU="
+    },
+    {
+      "key": "热播",
+      "name": "热播┃影视",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
+      "key": "红豆",
+      "name": "红豆┃影视",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ183jzSI6L432F1wEM1kc4mV87fQxIbwNi40y4T/RKJAUnj9z8A=="
+    },
+    {
+      "key": "下饭",
+      "name": "下饭┃影视",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3sriwSIhL5XjHg0adEYJpXZ48P0hOq5X1M8s5yKKbc1C2H4563JjH/01RZDAuqM="
+    },
+    {
+      "key": "MTV",
+      "name": "明星┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+      }
+    },
+    {
+      "key": "AppQi1",
+      "name": "爱盈┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "api": "csp_AppQi",
+      "changeable": "0",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "BciM/oLDYQqSU++RAsI5xz2Dmz98Blyw0pp0T+0QPiqzXAOG2XsUSh62armSJmz6+8BN455Lbt5tpPqGfXnKgoQ1N+ZOhu3N/KDZ+r/7HZc="
+    },
+    {
+      "key": "鲸鱼",
+      "name": "鲸鱼┃影视",
+      "quickSearch": 0,
+      "searchable": 1,
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "api": "csp_AppQi",
+      "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzffqLi7UXvCKdy6PzbDhzFq"
+    },
+    {
+      "key": "仓鼠2",
+      "name": "仓鼠┃影视",
+      "quickSearch": 0,
+      "searchable": 1,
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "api": "csp_AppQi",
+      "ext": "lo54N2bJ4DtrhxC9P676hHekMnvMvX1mNNhVKf3kE5Wgy3H/b30VkkDKAYauTqZsEMYaTrPKBtx3YUMTA+XHh7FPLmLfqp6gWseDzGVsgesALIba2gHVzuE75Sx1II8A"
+    },
+    {
+      "key": "布蕾",
+      "name": "布蕾┃影视",
+      "quickSearch": 0,
+      "searchable": 1,
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "api": "csp_AppGet",
+      "ext": "KgJbeb5sUfDKrPR2kL+eSnS2/p1vUzgiO9/kBzkhPIPRpqLXPCDc4tA9MXMdokFN"
+    },
+    {
+      "key": "追忆",
+      "name": "追忆┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "api": "csp_AppSy",
+      "quickSearch": 0,
+      "ext": "oJGDh+VBrPcwnx19VbSGqy9EkivA/Gc+cSt3uSBzyPzDTmKYyoi6Wr4VgqU2u0Sh7AAuGc4/a7UWVU6BEmFetA=="
+    },
+    {
+      "key": "云速",
+      "name": "云速┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_AppQi",
+      "ext": "9ee0oa0Y30GapSvZ2C2RVE2HwH08KKvP0VhAZCVWpnluXpZNLRZrNCMeKyCWw1JOnmBt4WntUB96Gzw7GkroAUK4RePU806mDtHSmD09164W8EWpaWaU/Gg8nPkgUt5F"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "火火┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "api": "csp_SaoHuo"
+    },
+    {
+      "key": "csp_Qiyou",
+      "name": "奇优┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "api": "csp_Qiyou"
+    },
+    {
+      "key": "大豆",
+      "name": "大豆┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "quickSearch": 0,
+      "searchable": 1,
+      "api": "csp_AppQi",
+      "ext": "Ruh/okyt5lxEpcdQOao0NkSkj8M9vdB0soaZbGJldzA3817rfAzlvyWHCewZEFD4+BBCXxVVHkmAtv6gi+JRQlKwhK1WjuT8blTygReol77ICMmtZZPsmzfgjOtOXiEJ"
+    },
+    {
+      "key": "金牌APP",
+      "name": "爆炸┃影视",
+      "quickSearch": 0,
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "api": "csp_AppMuou",
+      "ext": "ewogICJTaXRlVXJsIjogImh0dHBzOi8vbXVvdS53bGJicS54eXoiLAogICJFeHQiOiAiaXA5K1dadnQ5ODNzUzAwOGtyTktobno4Q2Fzb2d3QjlLYkp2U0FmNGJRZEg5aUlGVHE4Y0tGM3Y4RFBicnphUiIsCiAgIkluZm8iOiAiaHR0cHM6Ly9tdW91aHQuZ2d0dmIuY2MiCn0="
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_Gz360"
+    },
+    {
+      "key": "厂长",
+      "name": "厂长┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/M0919.zip",
+      "quickSearch": 0,
+      "api": "csp_Czsapp",
+      "ext": "https://www.czzymovie.com"
+    },
+    {
+      "key": "剧评",
+      "name": "剧评┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/Q0711.jar",
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+    },
+    {
+      "key": "咖啡",
+      "name": "咖啡┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/0815.png",
+      "quickSearch": 0,
+      "searchable": 1,
+      "api": "csp_AppQi",
+      "ext": "iCAfNu0lnzDbPNyRZNPADkQjEsRXYXbhzP+dNzKN1SEfbPPIOKvEKGUJbNHH/Enk8UofJl+f8LL+N/h69EZDaFMMPeCDLq9N1TV0aTDfIY89NkrX+nhIaX9d//xiiVns"
+    },
+    {
+      "key": "比迪",
+      "name": "比迪┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/0815.png",
+      "quickSearch": 0,
+      "playerType": 1,
+      "searchable": 1,
+      "api": "csp_AppQi",
+      "ext": "HM+RJliOAzVbMKoUegXt5SVTp6lV507+wK0S5QCxiEEA9zs/swmgAb3z+F5RUY21tC1US86Wo/2RunTWZsPUxuLk0B4X5G0RneEJEfEV4CWzDmIx8mdFYBlSJiwJcoNYioDEVsg76bXpsGDfXTT4Mb092SQ1oS22g2A1GUtEcn8="
+    },
+    {
+      "key": "1905",
+      "name": "1905┃影视",
+      "type": 3,
+      "jar": "https://d.kstore.dev/download/6437/jar/jar.php",
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "2400部恐怖电影📲",
+      "name": "恐怖┃影视",
+      "type": 3,
+      "api": "https://d.kstore.dev/download/6437/jar/apiv26116万hys.js",
+      "ext": "https://d.kstore.dev/download/6437/jar/2400部恐怖电影.js"
+    },
+    {
+      "key": "csp_非凡资源",
+      "name": "非凡┃影视",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "暴风资源",
+      "name": "暴风┃影视",
+      "type": 1,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "量子资源",
+      "name": "量子┃影视",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "logo": "https://d.kstore.dev/download/6437/Pictures/KLG.gif",
+  "lives": [
+    {
+      "name": "LIVE1",
+      "type": 0,
+      "url": "http://150.158.112.123/live.txt",
+      "playerType": 1
+    },
+    {
+      "name": "LIVE2",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/6437/jar/1.txt",
+      "playerType": 1
+    },
+    {
+      "name": "LIVE3",
+      "type": 0,
+      "url": "https://d.kstore.dev/download/6437/jar/2.txt",
+      "playerType": 1
+    }
+  ]
+}
